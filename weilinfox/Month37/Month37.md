@@ -8,7 +8,7 @@
 + ruyisdk-website 仓库审核 2 个 pr
     + [Add package-index-web to official site #545](https://github.com/ruyisdk/ruyisdk-website/pull/545)
     + [Optimize the layouts of homepage onboarding component. #549](https://github.com/ruyisdk/ruyisdk-website/pull/549)
-+ ruyisdk-website 仓库提交 26 个 pr
++ ruyisdk-website 仓库提交 5 个 pr
     + [pages(downloads): release new download page #540](https://github.com/ruyisdk/ruyisdk-website/pull/540)
     + [pages(issue): release issue page #541](https://github.com/ruyisdk/ruyisdk-website/pull/541)
     + [Improve layout for installation script #544](https://github.com/ruyisdk/ruyisdk-website/pull/544)
@@ -18,7 +18,7 @@
     + [device/zhihe-a210-sodimm: new device #208](https://github.com/ruyisdk/packages-index/pull/208)
 + ruyi-backend 仓库提交 1 个 issue
     + [/releases/latest-pm 将 macOS 架构二进制显示为 linux/macos-arm64 #113](https://github.com/ruyisdk/ruyi-backend/issues/113)
-+ ruyisdk-test/ruyi-pytest 仓库提交  个 pr
++ ruyisdk-test/ruyi-pytest 仓库提交 5 个 pr
     + [New test cases based on ruyi v0.50.0 #13](https://github.com/ruyisdk-test/ruyi-pytest/pull/13)
     + [ruyi: update dev dep ruyi version to v0.50.0 #14](https://github.com/ruyisdk-test/ruyi-pytest/pull/14)
     + [misc: revert for test failure caused by #9 #15](https://github.com/ruyisdk-test/ruyi-pytest/pull/15)
