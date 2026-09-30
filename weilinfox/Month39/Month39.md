@@ -1,5 +1,11 @@
 # Month 39 工作报告 26/09/01-26/09/30
 
++ 测试 Ruyi 0.52.0 测试版本提交测试报告
+    + [!101 Add 0.52.0 test result](https://gitee.com/yunxiangluo/ruyisdk-test/pulls/101)
++ 测试 Ruyi 0.53.0 测试版本提交测试报告
+    + [!102 Update v0.53.0 test report](https://gitee.com/yunxiangluo/ruyisdk-test/pulls/102)
++ 更新 Ruyi 0.53.0 测试报告的 VSCode 部分
+    + [!103 Update v0.1.7 vscode test result](https://gitee.com/yunxiangluo/ruyisdk-test/pulls/103)
 + ruyisdk-website 仓库审核 1 个 pr
     + [pages(news): add RISC-V Summit Europe 2026 article #581](https://github.com/ruyisdk/ruyisdk-website/pull/581)
 + ruyisdk-website 仓库提交 4 个 pr
