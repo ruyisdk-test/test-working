@@ -31,7 +31,7 @@
     + ci: keep uv prerelease mode consistent [7e9f891](https://github.com/ruyisdk-test/oh-my-ruyi/commit/7e9f89153081abec5638d3c4b7cd7de20af08a9c)
 + ruyisdk-test/ruyi-index-test-bot 仓库提交 52 个 commit
     + [33ccb23...b6b465e](https://github.com/ruyisdk-test/ruyi-index-test-bot/compare/33ccb23824c4e2bb47fa2dc9271db13209c7b58c...b6b465e47301414403a4bce731176ef6eaa69563) 3,169 additions and 1 deletion
-+ ruyisdk-test/ruyi-index-test-bot 仓库提交 8 个 commit
++ ruyisdk-test/ruyi-index-test-bot-web 仓库提交 8 个 commit
     + [bb15827...ecfe986](https://github.com/ruyisdk-test/ruyi-index-test-bot-web/compare/bb15827812058af4ea9836ced1b80473c8d2226d...ecfe986fb95329bf62f04e5f406087e199385ea1) 291 additions and 53 deletions
-+ ruyisdk-test/ruyi-index-test-bot 仓库提交 17 个 commit
++ ruyisdk-test/ruyi-index-resolve-bot 仓库提交 17 个 commit
     + [b8cda9a...dc48bed](https://github.com/ruyisdk-test/ruyi-index-resolve-bot/compare/b8cda9a9abef9dbc9900e396fdb4c8b28d39c27c...dc48bed7c2245fc6beaca8b0d5745a2d1116a198) 2,328 additions and 30 deletions
